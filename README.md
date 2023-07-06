@@ -1,2 +1,2 @@
 # proyectoSO_txt
-proyect for  SO
+proyect for  SO this proyect is a simulation of instruction cycle
